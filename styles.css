@@ -4,7 +4,7 @@ html {
 	}
 body { 
 	background-color: #dad4fa;
-	font: 75% georgia, sans-serif;
+	font-family: 80% Tahoma, Verdana, sans-serif;
 	line-height: 1.88889;
 	color: #000000; 
 	margin: 0; 
@@ -15,7 +15,7 @@ p {
 	text-align: justify;
 	}
 h3 { 
-	font: italic normal 1.4em georgia, sans-serif;
+	font: italic normal 1.4em Tahoma, Verdana, sans-serif;
 	letter-spacing: 1px; 
 	margin-bottom: 0; 
 	color: #7D775C;
