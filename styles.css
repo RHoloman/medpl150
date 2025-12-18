@@ -2,10 +2,6 @@ html {
 	margin: 0;
 	padding: 0;
 	}
-head {
-	font-family: Tahoma, Verdana, sans-serif;
-	text-align: center;
-}
 body { 
 	background-color: #dad4fa;
 	font-family: 80% Tahoma, Verdana, sans-serif;
@@ -17,6 +13,10 @@ body {
 p { 
 	margin-top: 0; 
 	text-align: justify;
+	}
+h1 {
+	font-family: Tahoma, Verdana, sans-serif;
+	text-align: center;
 	}
 h3 { 
 	font: italic normal 1.4em Tahoma, Verdana, sans-serif;
