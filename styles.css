@@ -4,26 +4,27 @@ html {
 	}
 body { 
 	background-color: #dad4fa;
-	font-family: 80% Marker Felt, fantasy;
+	font-family: 80% Georgia, serify;
 	line-height: 1.88889;
 	color: #000000; 
 	margin: 0; 
 	padding: 0;
 	}
 p { 
+	font-family: Georgia, serif;
 	margin-top: 0; 
 	text-align: justify;
 	margin-bottom: 0; 
 	color: #05011c;
 	}
 h1 {
-	font-family: Marker Felt, fantasy;
+	font-family: Georgia, serif;
 	text-align: center;
 	margin-bottom: 0; 
 	color: #05011c;
 	}
 h3 { 
-	font: italic normal 1.4em Marker Felt, fantasy;
+	font: italic normal 1.4em Georgia, serif;
 	letter-spacing: 1px; 
 	margin-bottom: 0; 
 	color: #05011c;
