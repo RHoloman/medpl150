@@ -18,6 +18,7 @@ p {
 	margin-top: 0; 
 	margin-bottom: 0; 
 	color: #05011c;
+	border-style: ridge;
 	}
 h1 {
 	font-family: Georgia, serif;
