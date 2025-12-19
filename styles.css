@@ -16,7 +16,6 @@ body {
 p { 
 	font-family: Georgia, serif;
 	margin-top: 0; 
-	text-align: justify;
 	margin-bottom: 0; 
 	color: #05011c;
 	}
@@ -37,7 +36,7 @@ h2 {
 	color: #05011c;
 	}
 h3 { 
-	font: italic normal 1.4em Georgia, serif;
+	font: normal 1.4em Georgia, serif;
 	font-size: 14px;
 	letter-spacing: 1px; 
 	text-align: left;
