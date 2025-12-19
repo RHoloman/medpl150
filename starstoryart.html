@@ -1,4 +1,11 @@
 <html>
+  <style>
+div.relative {
+  position: relative;
+  left: 30px;
+  bottom: 0px;
+}
+  </style>
   <body>
      <link rel="stylesheet" href="styles.css">
     <table role="presentation" style="border-collapse:separate;border-spacing:12px;">
@@ -21,9 +28,11 @@
       <p>Star Arbiter ArtWork</p>
   </td>
 </tr>
-  <video width="960" height="540" controls>
+ <div class="relative">
+   <video width="960" height="540" controls>
     <source src="videos/StarCrafter.mp4" type="video/mp4"> 
   </video>
+ </div>
 </table>
   <h2><a href="storymap.html">Story Map (Protoype)</a></h2>
   <h2><a href= "index.html">Back to Home Page</a></h2>
