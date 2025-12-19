@@ -20,12 +20,23 @@ p {
 h1 {
 	font-family: Georgia, serif;
 	text-align: center;
+	font-size: 24px;
+	margin-bottom: 0; 
+	color: #05011c;
+	}
+h2 { 
+	font: italic normal 1.4em Georgia, serif;
+	font-size: 18px;
+	font-weight: bold;
+	letter-spacing: 1px; 
 	margin-bottom: 0; 
 	color: #05011c;
 	}
 h3 { 
 	font: italic normal 1.4em Georgia, serif;
+	font-size: 14px;
 	letter-spacing: 1px; 
+	text-align: left;
 	margin-bottom: 0; 
 	color: #05011c;
 	}
