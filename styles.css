@@ -46,7 +46,7 @@ h3 {
 	}
 /* unvisited link */
 a:link {
-  color: ivory;
+  color: rebeccapurple;
 }
 
 /* visited link */
@@ -56,10 +56,10 @@ a:visited {
 
 /* mouse over link */
 a:hover {
-  color: gold;
+  color: goldenrod;
 }
 
 /* selected link */
 a:active {
-  color: blue;
+  color: mediumvioletred;
 }
