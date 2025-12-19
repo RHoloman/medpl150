@@ -44,3 +44,22 @@ h3 {
 	margin-bottom: 0; 
 	color: #05011c;
 	}
+/* unvisited link */
+a:link {
+  color: ivory;
+}
+
+/* visited link */
+a:visited {
+  color: slateblue;
+}
+
+/* mouse over link */
+a:hover {
+  color: hover;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
